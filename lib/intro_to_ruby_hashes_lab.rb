@@ -1,4 +1,5 @@
-def my_hash_creator(name:, "Grace Hopper")
+def my_hash_creator(key, hash)
+  {name: "Grace Hopper"}
   
   
 end
