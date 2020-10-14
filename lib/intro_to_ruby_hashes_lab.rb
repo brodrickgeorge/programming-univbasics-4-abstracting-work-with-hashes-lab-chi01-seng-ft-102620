@@ -1,5 +1,5 @@
-def my_hash_creator(1, 2)
-  { id: => 2 }
+def my_hash_creator("1", 2)
+  age = {"1" => 2 }
   
 end
 
