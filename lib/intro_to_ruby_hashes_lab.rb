@@ -1,5 +1,6 @@
 def my_hash_creator(key, value)
-  { name: race Hopper
+  { name: "Grace Hopper"
+  
 end
 
 def read_from_hash(hash, key)
