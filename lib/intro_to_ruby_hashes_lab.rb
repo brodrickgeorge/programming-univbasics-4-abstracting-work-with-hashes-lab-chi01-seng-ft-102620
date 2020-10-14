@@ -1,6 +1,6 @@
-def my_hash_creator(key, hash)
+def my_hash_creator(name:, "Grace Hopper")
   {name: "Grace Hopper"}
-  my_hash_creator = {1 => 2}
+  
   
   
 end
